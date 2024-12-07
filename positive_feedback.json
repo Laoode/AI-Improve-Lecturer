@@ -1,0 +1,14 @@
+{
+    "feedback": [
+      {
+        "id": 1,
+        "text": "I thought his class was extremely hard but despite it all, I became a confident writer. People on here say 'you can only get a c on a paper' WRONG. I got an A and a B. You just have to be in it to win it. If you want to get an A, get a different teacher. If you want learn, Go for Rand. He made Eng. 110 worth something.",
+        "sentiment": "good"
+      },
+      {
+        "id": 2,
+        "text": "Steven Rand is a nice person and really interesting to hear him speak. I am always inspired after a lecture. However, never expect to get anything higher than a C. You can think your paper is perfect but, he will tear it apart in seconds. Take a different professor if you don't want to put 9 hours of work into a paper you get an 'average' grade on.",
+        "sentiment": "good"
+      }
+    ]
+}

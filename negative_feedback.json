@@ -1,0 +1,40 @@
+{
+    "feedback": [
+      {
+        "id": 1,
+        "text": "Rand was a good guy, really... he was. But I felt he had an alter-ego when he left to go home and grade. His expectations and how he picked apart his students papers was simply not fair. Again, great guy but avoid this class with him!!",
+        "sentiment": "awful"
+      },
+      {
+        "id": 2,
+        "text": "He is brilliant in his field, but expects his students to perform at high levels, with unrealistic expectations. Only by a miracle did I get an A, and that was after a heavy curve. He does care about his students though, as he gives lots of time in class for work, while he goes around giving tips and answering questions.",
+        "sentiment": "poor"
+      },
+      {
+        "id": 3,
+        "text": "He has a major in philosophy which is why all the papers you have to write are based on philosophy. As long as your paper agrees with what he thinks you will get a good grade. Otherwise the class is boring and he talks for an hour about nonsense but it is mandatory to attend otherwise your grade will drop.",
+        "sentiment": "awful"
+      },
+      {
+        "id": 4,
+        "text": "I recently just finished taking Comp 110 with Rand and it was the hardest class of my freshman semester. He takes it way too serious for a 100 level class. 80% of the class is papers so you would think you control the grade you get, right? Wrong. He will tear apart your paper and give you a bad grade despite your efforts. I worked hard for a C.",
+        "sentiment": "poor"
+      },
+      {
+        "id": 5,
+        "text": "He graded a 100 level class like we were all English majors in a 300 or above level class. Never got higher than a C on a paper. I went to the writing center for every paper. Very unclear in instructions and hard to approach with questions. Don't take the class from him.",
+        "sentiment": "awful"
+      },
+      {
+        "id": 6,
+        "text": "Tough grader on papers make sure you do your work and drafts. Participation grades save you in the long run. Dont miss class and do your work. Go to the tutor center helps alot, poor.",
+        "sentiment": "poor"
+      },
+      {
+        "id": 7,
+        "text": "Do not take English 110 with Rand. I don't feel any better at writing due to his confusing grading style.",
+        "sentiment": "poor"
+      }
+    ]
+  }
+  
